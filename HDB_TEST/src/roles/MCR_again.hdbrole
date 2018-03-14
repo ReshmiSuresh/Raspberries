@@ -9,6 +9,7 @@
 		    			  "EXECUTE",
 		    			  "DELETE",
 		    			  "UPDATE",
+		    			  "TRIGGER",
 		    			  "CREATE TEMPORARY TABLE"
 		   ]
 		}]
