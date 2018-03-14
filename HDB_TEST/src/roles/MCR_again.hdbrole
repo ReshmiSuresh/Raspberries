@@ -5,9 +5,12 @@
 		   "privileges": ["SELECT METADATA",
 		    			  "SELECT CDS",
 		    			  "SELECT",
-		    			  "INSERT",
+		    			  "INSERT INTO",
 		    			  "EXECUTE",
-		    			  "DELETE"
+		    			  "DELETE",
+		    			  "UPDATE",
+		    			  "TRIGGER",
+		    			  "CREATE TEMPORARY TABLE"
 		   ]
 		}]
 		
