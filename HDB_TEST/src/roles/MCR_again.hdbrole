@@ -7,7 +7,9 @@
 		    			  "SELECT",
 		    			  "INSERT",
 		    			  "EXECUTE",
-		    			  "DELETE"
+		    			  "DELETE",
+		    			  "UPDATE",
+		    			  "CREATE TEMPORARY TABLE"
 		   ]
 		}]
 		
