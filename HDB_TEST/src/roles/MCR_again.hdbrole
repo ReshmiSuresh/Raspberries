@@ -8,7 +8,7 @@
 		    			  "INSERT",
 		    			  "EXECUTE",
 		    			  "DELETE",
-		    			  "UPDATE",
+		    			  "UPDATE2",
 		    			  "TRIGGER",
 		    			  "CREATE TEMPORARY TABLE"
 		   ]
